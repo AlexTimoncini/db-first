@@ -1,0 +1,13 @@
+Auto in vendita
+
+Brand - string - VARCHART(20)
+Modello - string - VARCHART(20)
+Cambio - string - VARCHART(20)
+Cavalli - int. - SMALL
+Prezzo  - int. - MEDIUMINT
+Km_Percorsi - int. - MEDIUMINT
+Alimentazione - string - VARCHART(20)
+Nome_Proprietario - string - VARCHAR(200)
+Descrizione - string - TEXT
+
+
